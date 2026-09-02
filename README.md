@@ -1,2 +1,2 @@
 # leia-fanpage
-Een fanpage voor mijn hond Leia
+<h1>Een fanpage voor mijn hond Leia</h1>
